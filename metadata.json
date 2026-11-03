@@ -1,0 +1,6 @@
+{
+  "name": "Cadastro de Alunos - CRUD PDMO",
+  "description": "Aplicativo simples e didático de cadastro de alunos com CRUD completo (Local e API HTTP) para a disciplina de PDMO.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
